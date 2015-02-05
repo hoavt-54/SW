@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="player_background">#773D3D3D</color>
+    <color name="text_color">#AAEEEEEE</color>
+    <color name="spinner_background">#55EEEEEE</color>
+</resources>

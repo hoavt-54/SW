@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SleepWell</string>
+    <string name="app_name">Sleep Well</string>
+    <string name="notification_message">Have nice dream ;)</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_exit">Stop and exit</string>
+    <string name="action_share">Share this app</string>
+    <string name="action_rate_app">Rate this app</string>
+    <string name="title_activity_main">MainActivity</string>
 
+    <string name="rain">Rain</string>
+    <string name="bird_song">NaturalSound</string>
+    <string name="wind">Wind</string>
+    <string name="waves">Waves</string>
+    <string name="guitar_piano">GuitarPiano</string>
+    <string name="mediation">Meditation</string>
+    <string name="select_sound_instruction">Choose some of the sounds below</string>
+    <string name="duration">Stop at: </string>
+    <string name="first_instruction">First: select the sounds on the list. There are six sounds</string>
+    <string name="second_instruction">Second: You can mix, for example, Meditation guide and beach waves sound</string>
+    <string name="third_instruction">Next: Select when to stop the music, default is 20 min</string>
+    <string name="final_instruction">Finally, put a head phone on, have nice dream ;)</string>
+    
+    <!-- ads -->
+    <string name="top_banner_id">ca-app-pub-9293738147975044/8527922416</string>
+    <string name="full_screen_id">ca-app-pub-9293738147975044/4597250415</string>
+    
 </resources>
